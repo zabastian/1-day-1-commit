@@ -1,0 +1,10 @@
+Dis, bfs 에서 헷갈리는 부분을 다시 살펴보았다.
+
+Bfs 예제에서
+
+From collections import duque 에서 collection 모듈을 이용한 duque 자료구조를 이용해 너비우선탐색 코드짜는법이 헷갈렸다.
+
+여태까지 정리한 html,css 노트를 티스토리에 올렸다. 
+
+
+
